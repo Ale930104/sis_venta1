@@ -1,2 +1,2 @@
-# sis_venta1
+manual 
 software de facturación y ventas
